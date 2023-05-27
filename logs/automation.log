@@ -1,0 +1,128 @@
+22:08:25.485 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+22:08:25.752 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+22:08:25.776 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+22:08:25.875 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+22:08:25.948 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+22:08:28.735 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+22:08:32.194 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+22:08:32.194 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+22:08:32.203 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+22:08:32.838 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on App launcher
+22:08:33.467 [main] INFO  testCases.accounts.TC_01_Create_Account - Entered the text sales
+22:08:34.037 [main] INFO  testCases.accounts.TC_01_Create_Account - Clicked on sales text
+22:08:34.037 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is loading
+22:08:36.497 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page and logo displays
+22:08:37.049 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+22:08:37.749 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+22:08:38.029 [main] INFO  testCases.accounts.TC_01_Create_Account - Logged out successfully
+22:08:38.411 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+22:12:26.837 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+22:12:27.048 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+22:12:27.070 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+22:12:27.232 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+22:12:27.515 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+22:12:30.523 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+22:12:33.559 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+22:12:33.559 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+22:12:33.571 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+22:12:34.210 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on App launcher
+22:12:35.014 [main] INFO  testCases.accounts.TC_01_Create_Account - Entered the text sales
+22:12:35.688 [main] INFO  testCases.accounts.TC_01_Create_Account - Clicked on sales text
+22:12:35.688 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is loading
+22:12:38.354 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page and logo displays
+22:12:38.876 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+22:12:39.514 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+22:12:39.778 [main] INFO  testCases.accounts.TC_01_Create_Account - Logout Failed
+22:12:40.220 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+22:17:36.852 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+22:17:37.052 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+22:17:37.074 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+22:17:37.244 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+22:17:37.308 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+22:17:37.392 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+22:17:42.771 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+22:17:42.771 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+22:17:42.792 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+22:17:43.394 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on App launcher
+22:17:44.260 [main] INFO  testCases.accounts.TC_01_Create_Account - Entered the text sales
+22:17:44.861 [main] INFO  testCases.accounts.TC_01_Create_Account - Clicked on sales text
+22:17:44.861 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is loading
+22:17:47.276 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page and logo displays
+22:17:47.806 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+22:17:48.459 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+22:17:48.670 [main] INFO  testCases.accounts.TC_01_Create_Account - Logged out successfully
+22:17:49.041 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+22:23:08.418 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+22:23:08.652 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+22:23:08.688 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+22:23:08.902 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+22:23:08.980 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+22:23:10.929 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+22:23:14.182 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+22:23:14.182 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+22:23:14.192 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+22:23:14.807 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on App launcher
+22:23:15.636 [main] INFO  testCases.accounts.TC_01_Create_Account - Entered the text sales
+22:23:16.239 [main] INFO  testCases.accounts.TC_01_Create_Account - Clicked on sales text
+22:23:16.239 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is loading
+22:23:18.475 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page and logo displays
+22:23:19.007 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+22:23:19.800 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+22:23:19.932 [main] INFO  testCases.accounts.TC_01_Create_Account - Logged out successfully
+22:23:20.269 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+17:59:52.336 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+17:59:52.802 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+17:59:52.823 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+17:59:52.921 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+17:59:52.996 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+17:59:53.070 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+18:00:10.356 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+18:00:10.357 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+18:00:10.391 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+18:00:11.090 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on App launcher
+18:00:15.689 [main] INFO  testCases.accounts.TC_01_Create_Account - Entered the text sales
+18:00:16.323 [main] INFO  testCases.accounts.TC_01_Create_Account - Clicked on sales text
+18:00:16.323 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is loading
+18:00:21.018 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page and logo displays
+18:00:21.877 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+18:00:22.483 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+18:00:22.671 [main] INFO  testCases.accounts.TC_01_Create_Account - Logged out successfully
+18:00:23.298 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+18:02:19.428 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+18:02:19.730 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+18:02:19.754 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+18:02:19.841 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+18:02:19.912 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+18:02:39.085 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+18:02:39.144 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+18:02:39.144 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+18:02:39.178 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+18:02:40.723 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on App launcher
+18:02:45.362 [main] INFO  testCases.accounts.TC_01_Create_Account - Entered the text sales
+18:02:45.956 [main] INFO  testCases.accounts.TC_01_Create_Account - Clicked on sales text
+18:02:45.957 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is loading
+18:02:49.246 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page and logo displays
+18:02:49.978 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+18:02:50.564 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+18:02:50.717 [main] INFO  testCases.accounts.TC_01_Create_Account - Logged out successfully
+18:02:51.296 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+18:15:54.109 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+18:15:54.395 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+18:15:54.427 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+18:15:54.563 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+18:15:54.664 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+18:16:13.565 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
+18:16:13.621 [main] INFO  testCases.accounts.TC_01_Create_Account - Setup page and text displayed
+18:16:13.621 [main] INFO  testCases.accounts.TC_01_Create_Account - logged in successfully
+18:16:13.669 [main] INFO  testCases.accounts.TC_01_Create_Account - Launched the setup
+18:16:16.822 [main] INFO  testCases.accounts.TC_01_Create_Account - Sales home page is not displayed
+18:16:17.379 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the profile icon
+18:16:18.050 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on the logout label
+18:16:18.416 [main] INFO  testCases.accounts.TC_01_Create_Account - Logged out successfully
+18:16:18.966 [main] INFO  testCases.accounts.TC_01_Create_Account - Closed the browser successfully
+22:12:33.331 [main] INFO  testCases.accounts.TC_01_Create_Account - Browser launched successfully
+22:12:33.654 [main] INFO  testCases.accounts.TC_01_Create_Account - Login test started
+22:12:33.675 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the username
+22:12:33.791 [main] INFO  testCases.accounts.TC_01_Create_Account - Enter the password
+22:12:33.929 [main] INFO  testCases.accounts.TC_01_Create_Account - Click on login button
+22:12:35.999 [main] INFO  testCases.accounts.TC_01_Create_Account - verify the Setup page
